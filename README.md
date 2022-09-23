@@ -15,6 +15,9 @@ npm i --save-dev eslint
 ## how run prettier
 $ npm run prettier
 
+## how run test
+$ npm run test
+
 ## the end point '/images'
 there are 3 params 
 1-originalimage => string
